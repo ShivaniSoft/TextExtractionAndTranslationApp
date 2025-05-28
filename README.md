@@ -16,5 +16,7 @@ Firebase ML Kit API
     Language Identificaton API: "com.google.firebase:firebase-bom:33.12.0"
                                 "com.google.firebase:firebase-analytics"
                                 "com.google.mlkit:language-id:17.0.6"
+                                
+For crop functionality i have used this dependency: "com.github.dhaval2404:imagepicker:2.1"
 
   
